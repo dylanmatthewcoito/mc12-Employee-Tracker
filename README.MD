@@ -20,3 +20,4 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ```md
     ![alt text](assets/images/screenshot.png)
     ```
+![MySQL Employee Tracker](https://github.com/dylanmatthewcoito/mc12-Employee-Tracker/assets/71201051/823ad0bd-9b8c-452a-a1cd-bf98758cec9b)
