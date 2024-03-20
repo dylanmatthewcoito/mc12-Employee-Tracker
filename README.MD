@@ -4,6 +4,10 @@
 
 The Employee Tracker is a command-line application that allows you to manage a company's employee database. It provides functionality to view, add, and update departments, roles, and employees in the database.
 
+## Video Walkthrough Link 
+
+https://drive.google.com/file/d/1YNZgBrurjhsFo2nZmM70UuFDCK5S9e_t/view
+
 ## Features
 
 - View all departments, roles, and employees
@@ -58,11 +62,5 @@ The Employee Tracker is a command-line application that allows you to manage a c
 4. Follow the prompts to input the necessary information for each action.
 
 5. The application will display the results of each action and return to the main menu.
-
-
-## Video Walkthrough Link 
-
-https://drive.google.com/file/d/1YNZgBrurjhsFo2nZmM70UuFDCK5S9e_t/view
-
 
 ![MySQL Employee Tracker](https://github.com/dylanmatthewcoito/mc12-Employee-Tracker/assets/71201051/823ad0bd-9b8c-452a-a1cd-bf98758cec9b)
